@@ -1,1 +1,18 @@
-
+[
+  {
+    "name": "Oxazepam 10 mg",
+    "country": "NL",
+    "status": "limited",
+    "reason": "Beperkt leverbaar",
+    "detail": "Productieproblemen",
+    "alternatives": ["Diazepam 5 mg", "Lorazepam 1 mg"]
+  },
+  {
+    "name": "Diazepam 10 mg",
+    "country": "NL",
+    "status": "available",
+    "reason": "Leverbaar bij groothandel",
+    "detail": "",
+    "alternatives": []
+  }
+]
